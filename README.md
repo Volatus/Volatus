@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Software Engineer specialising in SRE & DevOps</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volatus&label=Profile%20views&color=0e75b6&style=flat" alt="volatus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volatus&label=Profile%20views&color=0e75b6&style=flat&count_private=true" alt="volatus" /> </p>
 
 - 🌱 I’m currently learning **Rust & OS Development.**
 
